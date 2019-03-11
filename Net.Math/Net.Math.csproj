@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Salih Keleş</Authors>
+    <Description>Simple but handful math functions</Description>
+    <Copyright>©2019 Salih Keleş</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
