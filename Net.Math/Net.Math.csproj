@@ -5,6 +5,10 @@
     <Authors>Salih Keleş</Authors>
     <Description>Simple but handful math functions</Description>
     <Copyright>©2019 Salih Keleş</Copyright>
+    <PackageProjectUrl>https://github.com/kelessal/net-math</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kelessal/net-math</RepositoryUrl>
+    <PackageTags>net math, matrix</PackageTags>
+    <PackageLicenseUrl>https://github.com/kelessal/net-math/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
