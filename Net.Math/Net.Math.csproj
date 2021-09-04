@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <Authors>Salih Keleş</Authors>
     <Description>Simple but handful math functions</Description>
     <Copyright>©2019 Salih Keleş</Copyright>
@@ -9,10 +9,11 @@
     <RepositoryUrl>https://github.com/kelessal/net-math</RepositoryUrl>
     <PackageTags>net math, matrix</PackageTags>
     <PackageLicenseUrl>https://github.com/kelessal/net-math/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Combinatorics" Version="1.1.0.19" />
+    <PackageReference Include="Combinatorics" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
